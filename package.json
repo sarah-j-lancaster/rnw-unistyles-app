@@ -1,0 +1,25 @@
+{
+  "name": "rnw-unistyles-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^15.3.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-native": "^0.79.1",
+    "react-native-unistyles": "^2.32.0",
+    "react-native-web": "^0.20.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "metro-react-native-babel-preset": "^0.77.0",
+    "typescript": "^5.8.3"
+  }
+}
